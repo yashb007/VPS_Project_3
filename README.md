@@ -91,5 +91,5 @@ department would notify them of receiving the complaint and will take the necess
 guilty.
 
 # Process Flow:  - 
-![Alt text](./Screenshot (19).png?raw=true "Project Flow")
+![Alt text](Screenshot (19).png?raw=true "Project Flow")
 
