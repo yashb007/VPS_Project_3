@@ -91,4 +91,10 @@ department would notify them of receiving the complaint and will take the necess
 guilty.
 
 # Process Flow:  - 
-https://github.com/yashb007/VPS_Project_3/blob/d2231b7a277d1cd6172a49da7938f78c9713aae4/Screenshot%20(19).png
+<img
+src="https://github.com/yashb007/VPS_Project_3/blob/d2231b7a277d1cd6172a49da7938f78c9713aae4/Screenshot%20(19).png"
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
+
