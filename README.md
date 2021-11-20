@@ -89,3 +89,6 @@ department official who is not doing his/her job correctly to the monitoring dep
 be directed right to the dashboard of the monitoring department. In response to that, the monitoring
 department would notify them of receiving the complaint and will take the necessary action against the
 guilty.
+
+# Process Flow:  - 
+https://github.com/yashb007/VPS_Project_3/blob/d2231b7a277d1cd6172a49da7938f78c9713aae4/Screenshot%20(19).png
