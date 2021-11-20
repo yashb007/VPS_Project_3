@@ -90,6 +90,6 @@ be directed right to the dashboard of the monitoring department. In response to 
 department would notify them of receiving the complaint and will take the necessary action against the
 guilty.
 
-# Process Flow:  - 
-![Alt text](Screenshot (19).png?raw=true "Project Flow")
+## Process Flow:  - 
+![Alt text] (Screenshot (19).png?raw=true "Project Flow")
 
